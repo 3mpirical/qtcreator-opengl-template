@@ -1,0 +1,2 @@
+// Ignores qtcreator specific file for builds
+CMakeLists.txt.user
